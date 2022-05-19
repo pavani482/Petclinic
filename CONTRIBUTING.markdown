@@ -122,7 +122,7 @@ or by the laws in your country, could claim any rights (including but not limite
 property) over your contributed code, you will have to send the project members (either by email from your 
 authorised superiors or by signed fax), a statement indicating that your company agrees with the terms 
 explained in this page, and that it both authorises your contribution to Thymeleaf and states that will 
-never claim any kind of rights over it.
+never claim any kind of rights over it done.
 
 
 
